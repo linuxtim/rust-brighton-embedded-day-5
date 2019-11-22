@@ -1,4 +1,4 @@
-# Rust Brighton RGB WS2812 Blinky (Week 5)
+# Brighton Rust User Group RGB WS2812 Blinky (Week 5)
 
 A basic demo using the an ST [Nucleo-F411RE](https://www.st.com/en/evaluation-tools/nucleo-f411re.html) board with some WS2812 addressible RGB LEDs using the [Smart-leds](https://crates.io/crates/smart-leds) crate.
 
